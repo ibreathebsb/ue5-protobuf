@@ -1,6 +1,6 @@
 # UE5-Protobuf
-
-This is a prebuilt version of [protobuf-tag-v27.2](https://github.com/protocolbuffers/protobuf/tree/v27.2)
+ 
+This is a prebuilt version v27.2 of [protobuf](https://github.com/protocolbuffers/protobuf/tree/v27.2) 
 using c++ standard 20.
 
 `ThirdParty` contains libs and headers
